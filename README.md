@@ -1,5 +1,5 @@
 # Frontend-Mobile-Responsive-Web-Design-React-Native-Flutter-HTML-CSS-Mobile-Applications-React-Native
-#### Frontend Mobile Responsive Web Design React Native Flutter HTML CSS Mobile Applications React Native
+## Building Mobile Applications React Native
 
 #### Build Mobile Applications With React Native
 React Native is an open-source mobile application framework used to develop apps for Android, Apple, and Windows platforms; and for the web. Develop native apps for Android and iOS using React and JavaScript to create a single codebase that can be shared across platforms. React Native also lets you iterate quickly - allowing you to see your changes as soon as you save. In this skill path you will learn the foundational knowledge needed to get started with React Native and how to expand upon those features as you progress through the courses.
