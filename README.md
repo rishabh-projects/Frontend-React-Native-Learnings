@@ -1,4 +1,4 @@
-## Building Mobile Applications React Native
+## React Native Learnings
 
 React Native is an open-source mobile application framework used to develop apps for Android, Apple, and Windows platforms; and for the web. Develop native apps for Android and iOS using React and JavaScript to create a single codebase that can be shared across platforms. React Native also lets you iterate quickly - allowing you to see your changes as soon as you save.
 
